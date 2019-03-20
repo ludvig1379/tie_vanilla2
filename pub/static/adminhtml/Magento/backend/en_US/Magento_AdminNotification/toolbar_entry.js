@@ -1,0 +1,1 @@
+/home/vax/Documents/websites/www/vanilla2/vendor/magento/module-admin-notification/view/adminhtml/web/toolbar_entry.js

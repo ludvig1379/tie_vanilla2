@@ -1,0 +1,1 @@
+/home/vax/Documents/websites/www/vanilla2/vendor/magento/module-review/view/frontend/web/js/view/review.js

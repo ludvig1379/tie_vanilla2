@@ -1,0 +1,50 @@
+//
+//  Blank theme overrides
+//  _____________________________________________
+//  Theme file should contain declarations (overrides) ONLY OF EXISTING variables
+//  Otherwise this theme won't be available for parent nesting
+//  All new variables should be placed in local theme lib or local theme files
+
+// Fonts
+@font-family-name__base: 'Roboto', 'Helvetica Neue', Verdana, Arial, sans-serif;
+
+// Vax Colours
+@c-orange:      #f58426;
+@c-black:       #1d2b33;
+@c-grey-1:      #5a6870;
+@c-grey-2:      #727d84;
+@c-grey-3:      #ebebeb;
+@c-grey-4:      #c1c1c1;
+@c-light-gray:  #e5e6e8;
+@c-red:         #e63c2c;
+@c-dark-blue:   #003656;
+@c-dark-blue-2: #00355d;
+@c-light-blue:  #00abd2;
+@c-green:       #a2bf19;
+@c-yellow:      #f7e11f;
+@c-aqua:        #86cebc;
+@c-link:        #1d2b33;
+
+//  Primary button
+@button__font-size: 13px;
+@button-primary__background: @c-green;
+@button-primary__border: 1px solid @c-green;
+@button-primary__hover__background: @c-orange;
+@button-primary__hover__border: 1px solid @c-orange;
+
+.base {
+  color:  @c-orange;
+}
+
+.product-info-main {
+  .product.attribute.sku {
+      color:  #000000;
+  }
+}
+
+.minicart-items {
+  .product-item-name  a {
+    color: @c-orange;
+    font-weight: bold;
+  }
+}

@@ -1,0 +1,1 @@
+/home/vax/Documents/websites/www/vanilla2/vendor/magento/theme-frontend-blank/Magento_Theme/web/js/theme.js

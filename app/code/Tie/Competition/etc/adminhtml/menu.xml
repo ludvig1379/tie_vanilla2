@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Tie_Competition::practice" title="Practice" translate="title" module="Tie_Competition" sortOrder="51" resource="Tie_Competition::practice"/>
+        <add id="Tie_Competition::practice_competitionreport" title="Competition Report" translate="title" module="Tie_Competition" parent="Tie_Competition::practice" sortOrder="20" dependsOnModule="Tie_Competition" action="exampleadminnewpage/competitionreport" resource="Tie_Competition::practice"/>
+    </menu>
+</config>

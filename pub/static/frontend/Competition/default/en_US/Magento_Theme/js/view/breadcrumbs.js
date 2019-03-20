@@ -1,0 +1,1 @@
+/home/vax/Documents/websites/www/vanilla2/vendor/magento/module-theme/view/frontend/web/js/view/breadcrumbs.js

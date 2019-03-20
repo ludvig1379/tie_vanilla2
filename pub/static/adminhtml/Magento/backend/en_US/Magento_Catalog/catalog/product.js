@@ -1,0 +1,1 @@
+/home/vax/Documents/websites/www/vanilla2/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js

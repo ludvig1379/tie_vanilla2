@@ -1,0 +1,10 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../../lib/internal/Magento/Framework/View/Layout/etc/page_configuration.xsd" layout="1column">
+    <head>
+        <link src="Tie_Competition::js/formValidation.js"/>
+    </head>
+    <body>
+        <referenceContainer name="content">
+            <block class="Tie\Competition\Block\Competition" name="competition" template="form.phtml" />
+        </referenceContainer>
+    </body>
+</page>

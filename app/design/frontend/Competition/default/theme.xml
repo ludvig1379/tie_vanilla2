@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<theme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Config/etc/theme.xsd">
+    <title>Tie Competition</title>
+    <parent>Magento/blank</parent><!-- Magento/luma (blank) - both are working if you not create a '_theme.less' and all 'Blank (Luma) theme overrides' are done within the '_extend.less'   -->
+</theme>
